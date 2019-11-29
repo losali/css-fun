@@ -1,10 +1,11 @@
   body {
     /* //background: #FED550; */
-    background-image: radial-gradient(#212121 20%, #e53935 20%);
-    background-position: 0 0;
-    height: 350px;
+    background-image: radial-gradient(#d1fde3 20%, transparent 20%);
+    background-position: 0 0, 50px 50px;
+    background-color: #92B9A4;
+    background-size: 100px 100px;
+    height: 800px;
     width: 100%;
-
   }
   
   .container {
