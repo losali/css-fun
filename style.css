@@ -1,5 +1,10 @@
   body {
-    background: #FED550;
+    /* //background: #FED550; */
+    background-image: radial-gradient(#212121 20%, #e53935 20%);
+    background-position: 0 0;
+    height: 350px;
+    width: 100%;
+
   }
   
   .container {
